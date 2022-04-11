@@ -5,3 +5,5 @@ We then switch to the terminal and cloned a remote repository using git clone an
 Finally, we were taught how to integrate locate and remote branches by setting up upstream branches using git push
 
 On the previous session we went over git stashing, branches, fast forward commits and github configuration.
+
+As part of Devops we used github.com as CI/CD management tool and explored how is used in a profesional setting. 
