@@ -1,0 +1,6 @@
+In this session we were introduce to github and navigatinf  public and provate repositories from the main GUI as well as setting up  SSH keys from the settings Menu
+
+We then switch to the terminal and cloned a remote repository using git clone and git push origin to master to upload commits from local to remote repository.  We were also taught how to fetch from remote and compare changes using <git diff> and merging to main branch 
+
+Finally, we were taught how to integrate locate and remote branches by setting up upstream branches using git push
+
